@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <string-array name="names">
+        <item>开坦克的猫1</item>
+        <item>开坦克的猫2</item>
+        <item>开坦克的猫3</item>
+        <item>开坦克的猫4</item>
+        <item>开坦克的猫5</item>
+        <item>开坦克的猫6</item>
+        <item>开坦克的猫7</item>
+        <item>开坦克的猫8</item>
+        <item>开坦克的猫9</item>
+        <item>开坦克的猫10</item>
+        <item>开坦克的猫11</item>
+        <item>开坦克的猫12</item>
+        <item>开坦克的猫13</item>
+        <item>开坦克的猫14</item>
+        <item>开坦克的猫15</item>
+        <item>开坦克的猫16</item>
+        <item>开坦克的猫17</item>
+    </string-array>
+</resources>
